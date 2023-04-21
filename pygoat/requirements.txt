@@ -2,7 +2,7 @@ asgiref
 Django
 psycopg2==2.8.3
 pytz==2020.1
-sqlparse==0.3.1
+sqlparse==0.4.4
 php-wsgi
 pyyaml==5.1
 django-crispy-forms
